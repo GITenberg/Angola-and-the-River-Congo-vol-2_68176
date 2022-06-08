@@ -1,0 +1,30 @@
+_repo: Angola-and-the-River-Congo-vol-2_68176
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Monteiro, Joachim John
+    alias: Monteiro, J. (Joachim)
+    birthdate: 1833
+    deathdate: 1878
+    gutenberg_agent_id: '54605'
+    url: http://www.gutenberg.org/2009/agents/54605
+    wikipedia: https://en.wikipedia.org/wiki/Joachim_John_Monteiro
+description: ''
+gutenberg_issued: '2022-05-26'
+identifiers:
+  gutenberg: '68176'
+language: en
+pgterms:marc904: https://archive.org/details/angolarivercongo001mont
+pgterms:marc905: 20201210103853monteiro
+pgterms:marc906: '1875'
+pgterms:marc907: gb
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United Kingdom :Macmillan and Co.,1875.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Angola and the River Congo, vol. 2
+url: http://www.gutenberg.org/ebooks/68176
